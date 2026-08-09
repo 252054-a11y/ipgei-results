@@ -1,0 +1,6 @@
+ipgei.db
+__pycache__/
+*.pyc
+uploads/*
+!uploads/.gitkeep
+.env
